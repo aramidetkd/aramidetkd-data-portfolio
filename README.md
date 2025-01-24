@@ -22,7 +22,7 @@ Welcome to my data analysis portfolio! This repository showcases various data an
      - The U.S. is the top contributor of content.
      - Comedy and drama are the most popular genres.
    - **Files:**
-     - `netflix_analysis.py` - Python script for data analysis.
+     - `Netflix.ipynb` - Python script for data analysis.
      - `netflix_titles.csv` - Dataset used.
 
 ### 2. **[Global Sales Trends Analysis](./sales-trends/)**
